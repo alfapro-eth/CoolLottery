@@ -50,4 +50,4 @@
 This project is licensed under the MIT License - see the SPDX identifier in the contract.
 
 ## Author
-Built with ❤️ by [Your Name or Handle] on March 20, 2025.
+Built with ❤️ by me on March 20, 2025.
